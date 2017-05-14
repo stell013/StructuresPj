@@ -12,7 +12,7 @@ print "Welcome to the Final Grade Calculator"  #once password was correct
 ""
 ""
 
-print "Hey Sami just a reminder:" \
+print "Hey Samira just a reminder:" \
       " Every grade count in a dfferent weight"
 
 print ""
